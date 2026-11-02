@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 周赐骏 · 个人作品集站点地图。TODO: 上线前把 loc 里的 YOUR_DOMAIN 换成真实域名；
+     hash 路由（/#/xxx）对搜索引擎不可单独收录，首页为唯一主入口，
+     作品详情建议后续接真实后端路径或做预渲染。 -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://YOUR_DOMAIN/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

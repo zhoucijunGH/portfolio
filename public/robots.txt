@@ -1,0 +1,17 @@
+# 周赐骏 · 个人作品集 robots.txt
+# TODO: 上线前把 YOUR_DOMAIN 换成真实域名（与 index.html / sitemap.xml 保持一致）
+
+User-agent: *
+Allow: /
+
+# 常见爬虫显式放行
+User-agent: Googlebot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+Sitemap: https://YOUR_DOMAIN/sitemap.xml
