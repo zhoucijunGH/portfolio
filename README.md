@@ -4,6 +4,10 @@
 
 线上地址：https://zhoucijun-d2gete83h2f2bb329-1491685520.tcloudbaseapp.com/
 
+![站点首屏](docs/screenshots/hero.jpg)
+
+![整页概览：核心能力 / 技术矩阵 / 交付流程 / 精选案例](docs/screenshots/full-page.jpg)
+
 ## 技术栈
 
 - Vue 3（Composition API）+ TypeScript + Vite
